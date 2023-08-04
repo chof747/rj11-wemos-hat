@@ -409,7 +409,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template-project.kicad_pro",
+    "filename": "rj11-wemos-hat.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -470,6 +470,34 @@
       {
         "netclass": "Power",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+3.3V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/PWR_1"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/PWR_2"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/PWR_3"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/PWR_4"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/PWR_5"
       }
     ]
   },
