@@ -17,3 +17,4 @@ microcontroller projects
 ## Revision History:
 
 - **v1.0**: Initial version (Produced: 19.08.2023)
+- **v1.1**: Corrected RJ12 socket connector 
